@@ -1,0 +1,5 @@
+0 Mamifero
+1 Reptil
+2 Ave
+3 Pez
+4 Anfibio
